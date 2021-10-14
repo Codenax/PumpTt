@@ -1,5 +1,5 @@
 {
-  "name": "japan-wesite-2",
+  "name": "pumpit",
   "version": "1.0.0",
   "description": "valuedesign ",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "tawhid",
+  "author": "jahangir",
   "license": "MIT",
   "homepage": "",
   "devDependencies": {
